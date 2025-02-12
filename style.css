@@ -1,0 +1,15 @@
+/* style.css */
+a.homeReturn{
+    padding: 10, 10, 10, 10;
+}
+
+img {
+    width: 300px;      /* Set all images to 100px wide */
+    height: 300px;     /* Set all images to 100px tall */
+    border: 2px solid #333;  /* Add a border to make images easy to spot */
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+}
